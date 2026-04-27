@@ -1,40 +1,40 @@
 ﻿# Projeto de Faculdade - Sistema Web Real (ONG)
 
-Este projeto representa a aplicaÃ§Ã£o de conhecimentos acadÃªmicos em uma demanda social real, buscando gerar impacto positivo por meio da tecnologia.
+Este projeto representa a aplicação de conhecimentos acadêmicos em uma demanda social real, buscando gerar impacto positivo por meio da tecnologia.
 
 ## Contexto do trabalho
 
-Este repositÃ³rio foi desenvolvido como projeto acadÃªmico da disciplina:
+Este repositório foi desenvolvido como projeto acadêmico da disciplina:
 
-- **Projeto em Desenvolvimento de Sistemas**  
+- **Projeto em Desenvolvimento de Sistemas**
 
-A proposta do semestre Ã© construir um **Sistema Web real**, versionado no GitHub e publicado em nuvem, atendendo uma demanda concreta de um dos grupos definidos pela faculdade (ONG, projeto cultural, extensÃ£o universitÃ¡ria ou projeto profissional).
+A proposta do semestre é construir um **Sistema Web real**, versionado no GitHub e publicado em nuvem, atendendo uma demanda concreta de um dos grupos definidos pela faculdade (ONG, projeto cultural, extensão universitária ou projeto profissional).
 
 Este projeto foi realizado no contexto de **ONG**, com base em uma necessidade real da:
 
-## AssociaÃ§Ã£o Beneficente Casa IrmÃ£s de Nazareth
+## Associação Beneficente Casa Irmãs de Nazareth
 
-O sistema web criado Ã© uma plataforma institucional para apoiar a comunicaÃ§Ã£o da associaÃ§Ã£o com a comunidade, com foco em:
+O sistema web criado é uma plataforma institucional para apoiar a comunicação da associação com a comunidade, com foco em:
 
-- apresentaÃ§Ã£o do **Projetos**;
-- divulgaÃ§Ã£o das **aÃ§Ãµes**;
-- organizaÃ§Ã£o de informaÃ§Ãµes de **transparÃªncia**;
-- facilitaÃ§Ã£o do **contato** e da **contribuiÃ§Ã£o via Pix**;
-- acesso a uma **biblioteca de serviÃ§os pÃºblicos** Ãºteis para as famÃ­lias atendidas.
+- apresentação dos **projetos**;
+- divulgação das **ações**;
+- organização de informações de **transparência**;
+- facilitação do **contato** e da **contribuição via Pix**;
+- acesso a uma **biblioteca de serviços públicos** úteis para as famílias atendidas.
 
-A ideia principal foi transformar uma necessidade social real em uma soluÃ§Ã£o digital funcional, moderna e acessÃ­vel em diferentes dispositivos.
+A ideia principal foi transformar uma necessidade social real em uma solução digital funcional, moderna e acessível em diferentes dispositivos.
 
 ---
 
-## Objetivo acadÃªmico e prÃ¡tico
+## Objetivo acadêmico e prático
 
-AlÃ©m de cumprir os requisitos da disciplina, este projeto teve como objetivo aplicar, na prÃ¡tica:
+Além de cumprir os requisitos da disciplina, este projeto teve como objetivo aplicar, na prática:
 
-- planejamento e estruturaÃ§Ã£o de um sistema web;
-- design e experiÃªncia do usuÃ¡rio (desktop e mobile);
-- integraÃ§Ã£o de informaÃ§Ãµes institucionais reais;
-- versionamento e organizaÃ§Ã£o do projeto em equipe;
-- preparaÃ§Ã£o para publicaÃ§Ã£o em ambiente de cloud.
+- planejamento e estruturação de um sistema web;
+- design e experiência do usuário (desktop e mobile);
+- integração de informações institucionais reais;
+- versionamento e organização do projeto em equipe;
+- preparação para publicação em ambiente de cloud.
 
 ---
 
@@ -49,13 +49,13 @@ AlÃ©m de cumprir os requisitos da disciplina, este projeto teve como objetivo 
 
 ## Links do projeto
 
-- **RepositÃ³rio GitHub:**  
+- **Repositório GitHub:**
   `...`
 
-- **Site publicado (Cloud / Vercel):**  
+- **Site publicado (Cloud / Vercel):**
   `...`
 
-- **VÃ­deo de apresentaÃ§Ã£o (YouTube - pÃºblico ou nÃ£o listado):**  
+- **Vídeo de apresentação (YouTube - público ou não listado):**
   `...`
 
 ---
@@ -64,6 +64,6 @@ AlÃ©m de cumprir os requisitos da disciplina, este projeto teve como objetivo 
 
 - Projeto versionado no GitHub.
 - Sistema web publicado em cloud/hospedagem.
-- Link do sistema no repositÃ³rio.
-- VÃ­deo de apresentaÃ§Ã£o com no mÃ­nimo 5 minutos no YouTube.
-- Preenchimento do formulÃ¡rio final de entrega por um integrante do grupo.
+- Link do sistema no repositório.
+- Vídeo de apresentação com no mínimo 5 minutos no YouTube.
+- Preenchimento do formulário final de entrega por um integrante do grupo.
