@@ -16,11 +16,11 @@ Este projeto foi realizado no contexto de **ONG**, com base em uma necessidade r
 
 O sistema web criado é uma plataforma institucional para apoiar a comunicação da associação com a comunidade, com foco em:
 
-- apresentação dos **projetos**;
-- divulgação das **ações**;
-- organização de informações de **transparência**;
-- facilitação do **contato** e da **contribuição via Pix**;
-- acesso a uma **biblioteca de serviços públicos** úteis para as famílias atendidas.
+- Apresentação dos **projetos**;
+- Divulgação das **ações**;
+- Organização de informações de **transparência**;
+- Facilitação do **contato** e da **contribuição via Pix**;
+- Acesso a uma **biblioteca de serviços públicos** úteis para as famílias atendidas.
 
 A ideia principal foi transformar uma necessidade social real em uma solução digital funcional, moderna e acessível em diferentes dispositivos.
 
@@ -30,11 +30,11 @@ A ideia principal foi transformar uma necessidade social real em uma solução d
 
 Além de cumprir os requisitos da disciplina, este projeto teve como objetivo aplicar, na prática:
 
-- planejamento e estruturação de um sistema web;
-- design e experiência do usuário (desktop e mobile);
-- integração de informações institucionais reais;
-- versionamento e organização do projeto em equipe;
-- preparação para publicação em ambiente de cloud.
+- Planejamento e estruturação de um sistema web;
+- Design e experiência do usuário (desktop e mobile);
+- Integração de informações institucionais reais;
+- Versionamento e organização do projeto em equipe;
+- Preparação para publicação em ambiente de cloud.
 
 ---
 
