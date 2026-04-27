@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://casa-irmas-nazareth.vercel.app/sitemap.xml
+
