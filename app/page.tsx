@@ -148,14 +148,14 @@ export default function Home() {
               <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#projeto">
                 Projetos
               </a>
-              <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#documentos">Docs</a>
+              <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#documentos">Docum.</a>
               <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#transparencia">
                 Transp.
               </a>
               <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#contato">
                 Contato
               </a>
-              <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#doacao">Doação</a>
+              <a className="nav-link whitespace-nowrap rounded-full px-1.5 py-1.5 text-center transition-colors duration-200" href="#doacao">Apoio</a>
             </nav>
           </div>
         </div>
@@ -394,7 +394,7 @@ export default function Home() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  Tenho os documentos !
+                  Tenho todos os documentos !
                   <ArrowRight weight="bold" />
                 </a>
               </div>
@@ -646,6 +646,7 @@ export default function Home() {
     </div>
   );
 }
+
 
 
 
