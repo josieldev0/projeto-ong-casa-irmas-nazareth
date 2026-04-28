@@ -7,9 +7,9 @@ const siteUrl =
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
-  title: "AssociaÃ§Ã£o Beneficente Casa IrmÃ£s de Nazareth",
+  title: "Associação Beneficente Casa Irmãs de Nazareth",
   description:
-    "Projeto de conjunto habitacional e aÃ§Ãµes solidÃ¡rias para famÃ­lias de baixa renda.",
+    "Projeto de conjunto habitacional e ações solidárias para famílias de baixa renda.",
   alternates: {
     canonical: "/",
   },
@@ -17,24 +17,24 @@ export const metadata: Metadata = {
     type: "website",
     locale: "pt_BR",
     url: "/",
-    title: "AssociaÃ§Ã£o Beneficente Casa IrmÃ£s de Nazareth",
+    title: "Associação Beneficente Casa Irmãs de Nazareth",
     description:
-      "ConheÃ§a os projetos habitacionais e aÃ§Ãµes sociais da Casa IrmÃ£s de Nazareth.",
-    siteName: "Casa IrmÃ£s de Nazareth",
+      "Conheça os projetos habitacionais e ações sociais da Casa Irmãs de Nazareth.",
+    siteName: "Casa Irmãs de Nazareth",
     images: [
       {
         url: "/logo.png",
         width: 1200,
         height: 1200,
-        alt: "Logo da AssociaÃ§Ã£o Beneficente Casa IrmÃ£s de Nazareth",
+        alt: "Logo da Associação Beneficente Casa Irmãs de Nazareth",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "AssociaÃ§Ã£o Beneficente Casa IrmÃ£s de Nazareth",
+    title: "Associação Beneficente Casa Irmãs de Nazareth",
     description:
-      "Projeto de conjunto habitacional e aÃ§Ãµes solidÃ¡rias para famÃ­lias de baixa renda.",
+      "Projeto de conjunto habitacional e ações solidárias para famílias de baixa renda.",
     images: ["/logo.png"],
   },
 };
@@ -52,5 +52,7 @@ export default function RootLayout({
     </html>
   );
 }
+
+
 
 
