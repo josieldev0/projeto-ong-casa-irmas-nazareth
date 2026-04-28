@@ -50,10 +50,10 @@ Além de cumprir os requisitos da disciplina, este projeto teve como objetivo ap
 ## Links do projeto
 
 - **Repositório GitHub:**
-  `...`
+  `https://github.com/josieldev0/projeto-ong-casa-irmas-nazareth`
 
 - **Site publicado (Cloud / Vercel):**
-  `...`
+  `https://casa-irmas-nazareth.vercel.app/`
 
 - **Vídeo de apresentação (YouTube - público ou não listado):**
   `...`
