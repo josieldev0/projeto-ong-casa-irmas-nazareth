@@ -56,7 +56,7 @@ Além de cumprir os requisitos da disciplina, este projeto teve como objetivo ap
   `https://casa-irmas-nazareth.vercel.app/`
 
 - **Vídeo de apresentação (YouTube - público ou não listado):**
-  `...`
+  `https://youtu.be/6MD-NE9yBDU?si=1XGkf0yTTtyoaHRv`
 
 ---
 
